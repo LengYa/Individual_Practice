@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/tiananmen.jpg</file>
+    </qresource>
+</RCC>
